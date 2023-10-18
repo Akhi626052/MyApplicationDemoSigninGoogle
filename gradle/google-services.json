@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735811682617",
+    "firebase_url": "https://myapplicationdemogoo-default-rtdb.firebaseio.com",
+    "project_id": "myapplicationdemogoo",
+    "storage_bucket": "myapplicationdemogoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735811682617:android:686c0774cfee63c79b68e8",
+        "android_client_info": {
+          "package_name": "com.daizzyinfo.myapplicationdemosigningoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735811682617-1ki8nfvr3sh9ffvpvp7va70g0ejlca5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKpSaL8zkDrHS15tvBcqRVl-uipnDyJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735811682617-1ki8nfvr3sh9ffvpvp7va70g0ejlca5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
